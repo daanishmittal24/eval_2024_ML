@@ -2,7 +2,7 @@
 
 In this project, various regression models were evaluated to predict the target variable. Below are the models tested along with their respective scores for evaluation:
 
-| Model                         | Score (R²)  | Score (RMSE) |
+| Model                         | Score (RMSE) | Score (R²) | 
 |-------------------------------|-------------|--------------|
 | Linear Regression              | 4.899193    | -0.016989    |
 | Ridge Regression               | 4.895903    | -0.016307    |
